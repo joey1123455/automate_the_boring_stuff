@@ -1,0 +1,13 @@
+*.txt
+env
+*.bat
+*.zip
+*.dat
+*.dir
+*bak
+django-*
+.vs*
+New*
+prints
+31-*
+__pycache__
